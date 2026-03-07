@@ -4,8 +4,6 @@ I'm passionate about AI | ML | Data Analysis.
 
 # 💫 About Me:
 
-Striver Tardet 4.0
-
 I'm currectly working on SQL
 
 I'm currectly learnig Python, AI ,HTML &CSS<br>
